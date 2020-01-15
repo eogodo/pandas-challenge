@@ -1,0 +1,5 @@
+Observable Trends: 
+
+- Smaller sized schools have better standardized test performance than larger schools, especially in Math. 93.55% of students at small schools have a passing math score as opposed to the 69.96% of students at larger schools. 
+
+- Suprisingly, there is a negative correlation between spending per student and overall passing rate. 
